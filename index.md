@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Audition
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/Audition.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Audition <br>
+作者：Saïd Sayrafiezadeh <br>
+评分：5.5/5 <br>
+全文6700词，发表在2018年9月3日的《纽约客》上，阅读时间约半小时 <br>
 
-### Markdown
+整部小说的剧情在第一段第一句已经直接告诉了读者：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+“我第一次吸食可卡因的那个春天，我在我父亲开在月光高地的新施工工地里干活。我原本计划去上大学，去学习艺术，去学习表演，我幻想着自己光着脚在校园里漫游，带着笔记本草草记下我遇到的人物，以便我能在舞台上入微又精确地还原这些动作。然而现实是，我19岁，没有登记入学，每周工作六天，一小时工资八美元，和其他普通的工人相比不多也不少，在我白手起家的父亲看来，这就是公平。偶尔我会被社区剧院选上参演Neil Simon的作品或”The Mystery of Edwin Drood”，这些剧目受欢迎却不太复杂，我们会在开演前彩排一个月，然后在15个观众面前表演。“你要付出相应的努力。”比我年长的演员这么告诉我，或许那时他们已经察觉到了我的失望和不耐烦。“那要持续多久？”我问他们，仿佛他们伫立在演艺事业的顶峰。他们没有给我一个答案，只是提供了一个陈词滥调：它需要多久就要多久。”
 
-```markdown
-Syntax highlighted code block
+小说有两个部分，分别是第一次和第二次吸食可卡因的两个下午。在第一个下午，我们知道了主角19岁，生活在九十年代，想追求演艺事业，但他父亲想要他继承家里的建筑公司，把他留在了中部小镇不让他去上大学，为了培养儿子，父亲派他到了自家工地干活。主角内心落寞，但安慰自己搬砖也是锻炼自己演技的一部分。他从小接受私立学校高级教育，父亲给了他最舒适的环境，但现在他把自己和普通的建筑工人融为一体，模仿他们的口音和动作，让工友和外人完全看不出他是总裁的孩子。他不断提醒自己，总有一天他会租辆车跑去洛杉矶，在那里实现自己的演艺事业，但洛杉矶看起来就像一个“虚无缥缈的点”。
 
-# Header 1
-## Header 2
-### Header 3
+美国的海外游记作品有这样一个特点，身为美国人的主角在游历海外时，叙述的口吻常常充满善意却居高临下。这篇小说里主角的内心独白和这类美国游记十分相似，他发自内心羡慕工友们的烦恼，”他们的烦恼迫切，清晰，可以解决；而我的烦恼长远，关乎我的存在意义，感觉永远无法解决”。他不断浪漫化工地工人的生活，当他第一次跟着工友Duncan回他家吸可卡因时，他注意到Duncan贫民区的房子的内部比外部看起来好得多，他在内心为自己发现了这个细节而高兴：“这种细节会被一个在屋子外开车经过的人忽略，就像一个游艇上的客人凭借码头就以为他了解了一座岛屿”。
 
-- Bulleted
-- List
+他第二次吸食可卡因前，他拿到了一个本地小剧院的角色。小说的标题Audition就发生在这里。19岁的男主在试演时，被要求表演出”concept“这个词，那一瞬间，他突然发现15岁的自己可能会兴奋地尝试各种途径，但19岁的他现在感到已经衰老了，缺乏去大胆表演的勇气。他躺在地上蠕动，最终却拿到了一个角色。这个角色要表演三幕戏，却没有一句台词。他开始盼望Duncan能再次带他去吸食可卡因。
 
-1. Numbered
-2. List
+当他把粉末吸进去的那一刻，他发现了本地的小剧院最终也只能是本地的小剧院。他无法看清自己的人生轨迹，看不清眼前的挫折究竟是成功道路上的困难，还是一个虚无美梦的无用功。主角也分不清自己做出的努力究竟是否有意义，他高中上演艺课时，他父亲每周末都开着奔驰来接送他，当他在小剧院里表演时，他父亲坐在第一排，被自己儿子的表演感动到哭泣，但当他意识到演艺对儿子不只是一项爱好时，他把主角留在了工地。篮球传奇乔丹是小说里一个重要的意象，男主在开头提醒自己要像自己的偶像乔丹一样克服困难实现梦想，但他后来逐渐意识到如果他真的能像乔丹那样，在他这个年龄他本应开始展露才能，而不是在一个小剧院演不知名的角色。当他意识到别人无法区分他和一个普通的工人时，他的演艺梦已经失去了希望。
 
-**Bold** and _Italic_ and `Code` text
+可卡因提供了暂时的慰藉，在结尾，男主一次又一次去ATM取款吸更多可卡因，夜色从下午七点飞逝到了半夜，他陷入了他曾经嫉妒的“迫切，清晰，可以解决”的问题。不过小说这里就结束了，留下了足够多的模糊度。不过可以确定的是，主角现在和他那段经历已经有了相当的时间距离，小说第一句话”我第一次吸食可卡因的那个春天”已经把这件事和现在分割开。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/Audition.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+这部小说是一篇让我感觉非常relatable的coming of age题材作品，主角理想式的行为，在工地里锤炼自己的演技，不断在生活中抽炼出他所认为的艺术，但却最终慢慢被现实消耗殆尽希望，到最后顿悟发现自己理想中的人生轨迹根本无法实现。同时文中有大量的平行或循环结构，两次吸食的下午，吸食后的脑内循环，和最后一段文笔无比优美的去ATM一次次取款时的心理活动和一次又一次推翻之前心理活动的顿悟，都让这个小说陷入了一种无法逃离的无助感中，但又因为开头一句暗示的故事发生在很久之前不至于让人感到窒息。小说能把主角这种迷茫又顿悟出希望渺茫的心理如此细致地呈现出来，就已经是一种成功了。
